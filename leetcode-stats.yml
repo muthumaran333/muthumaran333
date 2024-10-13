@@ -1,0 +1,16 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This runs once a day at midnight to update stats
+  workflow_dispatch:  # Allows you to trigger the workflow manually
+  
+jobs:
+  leetcode-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch LeetCode Stats
+        uses: anuraghazra/leetcode-stats-card@latest
+        with:
+          username: Muthumaran333 # Replace with your LeetCode username
+          theme: dark # Choose between light or dark theme, or other options
