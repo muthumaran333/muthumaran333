@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Muthumaran</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muthumaran333&label=Profile%20views&color=0e75b6&style=flat" alt="muthumaran333" />
-</p>
+<h1 align="center">Hi 👋, I'm Muthumaran</h1> <h3 align="center">A passionate Full-Stack Developer from India</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthumaran333&label=Profile%20views&color=0e75b6&style=flat" alt="muthumaran333" /> </p>
+👨‍💻 About Me:
+🔭 I’m currently working on Farmers Market Place, a full-stack web application aimed at connecting farmers and consumers directly.
 
----
+🌱 I’m currently learning ReactJS, ExpressJS, and diving deeper into system design.
 
-👨‍💻 **About Me:**
-- 🔭 I’m currently working on **Farmers Market Place**, a full-stack web application aimed at connecting farmers and consumers directly.
-- 🌱 I’m currently learning **ReactJS**, **ExpressJS**, and diving deeper into **system design**.
-- 💬 Ask me about  **Python**, **Java**,**JavaScript**, **React**, **Flask**, **AI/ML** and more!
-- 📫 How to reach me: [muthumaran21td0628@gmail.com](mailto:muthumaran21td0628@gmail.com)
-- ⚡ Fun fact: I love solving algorithmic problems on LeetCode!
+💬 Ask me about Java, Spring Boot, React, Python, Flask, AI/ML and more!
+
+📫 How to reach me: muthumaran333@gmail.com
+
+⚡ Fun fact: I love solving algorithmic problems on LeetCode!
 
 ---
 
@@ -94,20 +91,13 @@
 <!-- 📊 GitHub Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muthumaran333&show_icons=true&theme=radical" alt="muthumaran333's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muthumaran333&theme=radical" alt="muthumaran333's GitHub Streak" /> </p>
 📈 Top Languages: -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muthumaran333&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="left">
+  <a href="https://leetcode.com/muthumaran333" target="blank">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=muthumaran333" alt="LeetCode Stats" />
+  </a>
+</p>
 
-## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Muthumaran333&theme=dark)
-
-Feel free to check your LeetCode profile [here](https://leetcode.com/muthumaran333) for more details on my progress and achievements!
-
----
-
-### 🔗 My Live Portfolio & Project Links
-- **[Live Portfolio](https://muthumaran333.github.io/Portfolio.github.io/)**: Showcase of my work and projects.
-- **[Farmers Market Place Project](https://github.com/muthumaran333/Farmers_MarketPlace)**: Direct link to the project repository.
-- **[Accident Prediction System Project](https://github.com/muthumaran333/Accident_Predicition)**: Direct link to the project repository.
-- **[JavaScript Mini Projects](https://github.com/muthumaran333/JS_Projects.github.io)**: Direct link to the project repository.
-
----
-
+🏆 GitHub Trophies:
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=muthumaran333&theme=radical&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" /> </p>
