@@ -7,6 +7,7 @@
 ---
 
 👨‍💻 **About Me:**
+- 🌐 [Live Portfolio](https://muthumaran333.github.io/Portfolio.github.io/): Showcase of my work and projects.
 - 🔭 I’m currently working on **Farmers Market Place**, a full-stack web application aimed at connecting farmers and consumers directly.
 - 🌱 I’m currently learning **ReactJS**, **ExpressJS**, and diving deeper into **system design**.
 - 💬 Ask me about  **Python**, **Java**,**JavaScript**, **React**, **Flask**, **AI/ML** and more!
