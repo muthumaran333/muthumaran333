@@ -100,7 +100,7 @@
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Muthumaran333&theme=dark)
 
-Feel free to check your LeetCode profile [here](https://leetcode.com/muthumaran333) for more details on my progress and achievements!
+Feel free to check my LeetCode profile [here](https://leetcode.com/muthumaran333) for more details on my progress and achievements!
 
 ---
 
